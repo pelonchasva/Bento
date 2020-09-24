@@ -115,7 +115,7 @@ body {
     background-color: var(--sbg);
 
     &:hover {
-        transform: translateY(-0.2rem);
+        /*transform: translateY(-0.2rem);*/
         box-shadow: 0 10px 10px rgba(#000000, 0.35);
     }
 }
@@ -273,7 +273,7 @@ body {
 
         &:hover {
             background-color: var(--accent);
-            transform: translateY(-0.2rem);
+            /*transform: translateY(-0.2rem);*/
 
             box-shadow: 0 10px 10px rgba(#000000, 0.35);
 
